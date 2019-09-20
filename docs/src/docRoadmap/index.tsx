@@ -1,5 +1,5 @@
 import React from "react";
-import { SectionTitle } from "../App";
+import { SectionTitle } from "../routes/components/typography";
 
 export const DocRoadmap = () => {
   return (
